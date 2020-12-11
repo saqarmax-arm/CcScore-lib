@@ -1,12 +1,12 @@
 {
-  "name": "qtumcore-lib",
-  "main": "./qtumcore-lib.min.js",
+  "name": "ccscore-lib",
+  "main": "./ccscore-lib.min.js",
   "version": "0.0.1",
-  "homepage": "http://qtum.org",
+  "homepage": "http://ccs.org",
   "authors": [
-    "QTUM <foundation@qtum.org>"
+    "CCS <foundation@ccs.org>"
   ],
-  "description": "A pure, powerful core for your qtum project.",
+  "description": "A pure, powerful core for your ccs project.",
   "moduleType": [
     "globals"
   ],
